@@ -1,0 +1,4 @@
+trojan://t.me%2Ffoolvpn@collection.linefriends.com:443/?type=ws&host=collection.linefriends.com.udp.sambat.xyz&path=%2Ftrojan-udp&security=tls&sni=collection.linefriends.com.udp.sambat.xyz#Trojan%20UDP%20collec
+trojan://t.me%2Ffoolvpn@ava.game.naver.com:443/?type=ws&host=ava.game.naver.com.udp.sambat.xyz&path=%2Ftrojan-udp&security=tls&sni=ava.game.naver.com.udp.sambat.xyz#Trojan%20UDP%20ava
+trojan://t.me%2Ffoolvpn@support.zoom.us:443/?type=ws&host=support.zoom.us.udp.sambat.xyz&path=%2Ftrojan-udp&security=tls&sni=support.zoom.us.udp.sambat.xyz#Trojan%20UDP%20zoom
+trojan://t.me%2Ffoolvpn@api.midtrans.com:443/?type=ws&host=api.midtrans.com.udp.sambat.xyz&path=%2Ftrojan-udp&security=tls&sni=api.midtrans.com.udp.sambat.xyz#Trojan%20UDP%20midtrans
