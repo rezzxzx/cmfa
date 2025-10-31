@@ -1,4 +1,4 @@
-#jika config Wildcald anda tidak muncul, chat aja admin buat masukin Wildcald kalian. 
+#jika config Wildcard anda tidak muncul, chat aja admin buat masukin Wildcald kalian. 
 hosts:
   'bug': [ 104.18.3.2, 104.18.2.2 ]
 
@@ -80,10 +80,6 @@ proxy-groups:
     - name: UDP
       proxies: [ Server UDP, PASS ]
       use: [ udp2 ]
-      type: select
-      lazy: true
-    - name: porn
-      proxies: [ REJECT, PASS ]
       type: select
       lazy: true
     - name: IKLANWEB
@@ -177,13 +173,6 @@ rule-providers:
     behavior: domain 
     url: "https://raw.githubusercontent.com/Zulfatok/Rule_provider/refs/heads/main/rule_provider/SANZ-WhatsApp.yaml" 
     path: ./ruleset/wa.yaml
-    interval: 86400
-  dewasa: 
-    type: http 
-    format: yaml 
-    behavior: domain 
-    url: "https://raw.githubusercontent.com/Zulfatok/Rule_provider/refs/heads/main/rule_provider/SANZ-NSFW18%2B.yaml" 
-    path: ./ruleset/dewasa.yaml
     interval: 86400
   youtube: 
     type: http 
