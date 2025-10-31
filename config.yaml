@@ -210,7 +210,6 @@ rules:
 - RULE-SET,sosmed,AUTO ALL
 - RULE-SET,youtube,AUTO ALL
 - RULE-SET,wa,AUTO ALL
-- RULE-SET,dewasa,AUTO ALL
 - RULE-SET,google,AUTO ALL
 - RULE-SET,broswer,AUTO ALL
 - RULE-SET,torrent,REJECT
